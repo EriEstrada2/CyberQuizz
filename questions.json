@@ -1,0 +1,970 @@
+{
+    "c2array": true,
+    "size": [
+        10,
+        6,
+        1
+    ],
+    "data": [
+        [
+            [
+                "¿Cuál es el planeta conocido como el Planeta Rojo?"
+            ],
+            [
+                "Venus"
+            ],
+            [
+                "Marte"
+            ],
+            [
+                "Júpiter"
+            ],
+            [
+                "Saturno"
+            ],
+            [
+                "Marte"
+            ]
+        ],
+        [
+            [
+                "¿Cuál es el planeta más grande del Sistema Solar?"
+            ],
+            [
+                "Tierra"
+            ],
+            [
+                "Marte"
+            ],
+            [
+                "Júpiter"
+            ],
+            [
+                "Neptuno"
+            ],
+            [
+                "Júpiter"
+            ]
+        ],
+        [
+            [
+                "¿Cuál es el planeta más cercano al Sol?"
+            ],
+            [
+                "Tierra"
+            ],
+            [
+                "Venus"
+            ],
+            [
+                "Mercurio"
+            ],
+            [
+                "Marte"
+            ],
+            [
+                "Mercurio"
+            ]
+        ],
+        [
+            [
+                "¿Cuál es el planeta conocido por sus hermosos anillos?"
+            ],
+            [
+                "Júpiter"
+            ],
+            [
+                "Saturno"
+            ],
+            [
+                "Urano"
+            ],
+            [
+                "Neptuno"
+            ],
+            [
+                "Saturno"
+            ]
+        ],
+        [
+            [
+                "¿Cómo se llama la galaxia en la que vivimos?"
+            ],
+            [
+                "Andrómeda"
+            ],
+            [
+                "Remolino"
+            ],
+            [
+                "Vía Láctea"
+            ],
+            [
+                "Sombrero"
+            ],
+            [
+                "Vía Láctea"
+            ]
+        ],
+        [
+            [
+                "¿Quién fue la primera persona en caminar en la Luna?"
+            ],
+            [
+                "Yuri Gagarin"
+            ],
+            [
+                "Buzz Aldrin"
+            ],
+            [
+                "Michael Collins"
+            ],
+            [
+                "Neil Armstrong"
+            ],
+            [
+                "Neil Armstrong"
+            ]
+        ],
+        [
+            [
+                "¿Qué planeta es conocido por tener una Gran Mancha Roja?"
+            ],
+            [
+                "Tierra"
+            ],
+            [
+                "Marte"
+            ],
+            [
+                "Júpiter"
+            ],
+            [
+                "Saturno"
+            ],
+            [
+                "Júpiter"
+            ]
+        ],
+        [
+            [
+                "¿Cuál es el nombre del telescopio espacial más famoso de la NASA?"
+            ],
+            [
+                "James Webb"
+            ],
+            [
+                "Hubble"
+            ],
+            [
+                "Kepler"
+            ],
+            [
+                "Chandra"
+            ],
+            [
+                "Hubble"
+            ]
+        ],
+        [
+            [
+                "¿Qué planeta tiene más lunas?"
+            ],
+            [
+                "Tierra"
+            ],
+            [
+                "Marte"
+            ],
+            [
+                "Júpiter"
+            ],
+            [
+                "Saturno"
+            ],
+            [
+                "Júpiter"
+            ]
+        ],
+        [
+            [
+                "¿Cuál es el nombre del segundo hombre en caminar en la Luna?"
+            ],
+            [
+                "Michael Collins"
+            ],
+            [
+                "Yuri Gagarin"
+            ],
+            [
+                "Buzz Aldrin"
+            ],
+            [
+                "Neil Armstrong"
+            ],
+            [
+                "Buzz Aldrin"
+            ]
+        ],
+        [
+            [
+                "¿Qué película presenta una misión para rescatar a un astronauta varado en Marte?"
+            ],
+            [
+                "Gravedad"
+            ],
+            [
+                "Interestelar"
+            ],
+            [
+                "Misión Rescate"
+            ],
+            [
+                "Apolo 13"
+            ],
+            [
+                "Misión Rescate"
+            ]
+        ],
+        [
+            [
+                "¿Qué película trata sobre la primera misión humana a la luna Europa de Júpiter?"
+            ],
+            [
+                "Interestelar"
+            ],
+            [
+                "2001: Odisea del Espacio"
+            ],
+            [
+                "Informe Europa"
+            ],
+            [
+                "Gravedad"
+            ],
+            [
+                "Informe Europa"
+            ]
+        ],
+        [
+            [
+                "¿Cómo se llama la nave espacial que llevó a los primeros humanos a la Luna?"
+            ],
+            [
+                "Géminis"
+            ],
+            [
+                "Skylab"
+            ],
+            [
+                "Apolo 11"
+            ],
+            [
+                "Soyuz"
+            ],
+            [
+                "Apolo 11"
+            ]
+        ],
+        [
+            [
+                "¿Cómo se llama la fuerza que mantiene a los planetas en órbita alrededor del Sol?"
+            ],
+            [
+                "Magnetismo"
+            ],
+            [
+                "Fricción"
+            ],
+            [
+                "Gravedad"
+            ],
+            [
+                "Electromagnetismo"
+            ],
+            [
+                "Gravedad"
+            ]
+        ],
+        [
+            [
+                "¿Qué planeta es conocido como la Estrella de la Mañana o la Estrella de la Tarde?"
+            ],
+            [
+                "Marte"
+            ],
+            [
+                "Júpiter"
+            ],
+            [
+                "Venus"
+            ],
+            [
+                "Mercurio"
+            ],
+            [
+                "Venus"
+            ]
+        ],
+        [
+            [
+                "¿Qué planeta tiene un día más largo que su año?"
+            ],
+            [
+                "Tierra"
+            ],
+            [
+                "Venus"
+            ],
+            [
+                "Marte"
+            ],
+            [
+                "Júpiter"
+            ],
+            [
+                "Venus"
+            ]
+        ],
+        [
+            [
+                "¿En qué película intentan salvar la Tierra de un asteroide que se aproxima?"
+            ],
+            [
+                "Interestelar"
+            ],
+            [
+                "Armageddon"
+            ],
+            [
+                "Misión Rescate"
+            ],
+            [
+                "Gravedad"
+            ],
+            [
+                "Armageddon"
+            ]
+        ],
+        [
+            [
+                "¿Cuál es la estrella más cercana a la Tierra?"
+            ],
+            [
+                "Alpha Centauri"
+            ],
+            [
+                "Sirio"
+            ],
+            [
+                "Proxima Centauri"
+            ],
+            [
+                "Betelgeuse"
+            ],
+            [
+                "Proxima Centauri"
+            ]
+        ],
+        [
+            [
+                "¿Qué planeta es conocido como el gemelo de la Tierra?"
+            ],
+            [
+                "Marte"
+            ],
+            [
+                "Venus"
+            ],
+            [
+                "Mercurio"
+            ],
+            [
+                "Júpiter"
+            ],
+            [
+                "Venus"
+            ]
+        ],
+        [
+            [
+                "¿Cuál fue el primer satélite artificial en orbitar la Tierra?"
+            ],
+            [
+                "Voyager"
+            ],
+            [
+                "Sputnik"
+            ],
+            [
+                "Apolo"
+            ],
+            [
+                "Pioneer"
+            ],
+            [
+                "Sputnik"
+            ]
+        ],
+        [
+            [
+                "¿Cuál es el nombre del rover que aterrizó en Marte en 2021?"
+            ],
+            [
+                "Curiosity"
+            ],
+            [
+                "Spirit"
+            ],
+            [
+                "Opportunity"
+            ],
+            [
+                "Perseverance"
+            ],
+            [
+                "Perseverance"
+            ]
+        ],
+        [
+            [
+                "¿Qué película está basada en una novela de Arthur C. Clarke?"
+            ],
+            [
+                "Interestelar"
+            ],
+            [
+                "2001: Odisea del Espacio"
+            ],
+            [
+                "Gravedad"
+            ],
+            [
+                "Misión Rescate"
+            ],
+            [
+                "2001: Odisea del Espacio"
+            ]
+        ],
+        [
+            [
+                "¿Cuál es el nombre del planeta enano ubicado en el cinturón de Kuiper?"
+            ],
+            [
+                "Ceres"
+            ],
+            [
+                "Eris"
+            ],
+            [
+                "Plutón"
+            ],
+            [
+                "Makemake"
+            ],
+            [
+                "Plutón"
+            ]
+        ],
+        [
+            [
+                "¿Qué tipo de estrella es nuestro Sol?"
+            ],
+            [
+                "Enana blanca"
+            ],
+            [
+                "Gigante roja"
+            ],
+            [
+                "Enana amarilla"
+            ],
+            [
+                "Supergigante azul"
+            ],
+            [
+                "Enana amarilla"
+            ]
+        ],
+        [
+            [
+                "¿Cuál es el satélite natural más grande de Saturno?"
+            ],
+            [
+                "Europa"
+            ],
+            [
+                "Tritón"
+            ],
+            [
+                "Titán"
+            ],
+            [
+                "Ganímedes"
+            ],
+            [
+                "Titán"
+            ]
+        ],
+        [
+            [
+                "¿Qué planeta es conocido por su Gran Mancha Oscura?"
+            ],
+            [
+                "Júpiter"
+            ],
+            [
+                "Saturno"
+            ],
+            [
+                "Neptuno"
+            ],
+            [
+                "Urano"
+            ],
+            [
+                "Neptuno"
+            ]
+        ],
+        [
+            [
+                "¿Cuál es el segundo planeta más pequeño del Sistema Solar?"
+            ],
+            [
+                "Mercurio"
+            ],
+            [
+                "Marte"
+            ],
+            [
+                "Venus"
+            ],
+            [
+                "Neptuno"
+            ],
+            [
+                "Marte"
+            ]
+        ],
+        [
+            [
+                "¿Cómo se llama la estación espacial internacional que orbita la Tierra?"
+            ],
+            [
+                "ISS"
+            ],
+            [
+                "Mir"
+            ],
+            [
+                "Skylab"
+            ],
+            [
+                "Tiangong"
+            ],
+            [
+                "ISS"
+            ]
+        ],
+        [
+            [
+                "¿Cuál es el nombre del primer hombre en viajar al espacio?"
+            ],
+            [
+                "Neil Armstrong"
+            ],
+            [
+                "Buzz Aldrin"
+            ],
+            [
+                "Yuri Gagarin"
+            ],
+            [
+                "Michael Collins"
+            ],
+            [
+                "Yuri Gagarin"
+            ]
+        ],
+        [
+            [
+                "¿En qué película los personajes viajan a través de un agujero de gusano en busca de un nuevo hogar para la humanidad?"
+            ],
+            [
+                "Gravedad"
+            ],
+            [
+                "Misión Rescate"
+            ],
+            [
+                "Interestelar"
+            ],
+            [
+                "2001: Odisea del Espacio"
+            ],
+            [
+                "Interestelar"
+            ]
+        ],
+        [
+            [
+                "¿Cómo se llama la primera nave espacial que llegó a Marte?"
+            ],
+            [
+                "Mariner 4"
+            ],
+            [
+                "Viking 1"
+            ],
+            [
+                "Pathfinder"
+            ],
+            [
+                "Curiosity"
+            ],
+            [
+                "Mariner 4"
+            ]
+        ],
+        [
+            [
+                "¿Qué planeta tiene una luna llamada Fobos?"
+            ],
+            [
+                "Júpiter"
+            ],
+            [
+                "Saturno"
+            ],
+            [
+                "Marte"
+            ],
+            [
+                "Urano"
+            ],
+            [
+                "Marte"
+            ]
+        ],
+        [
+            [
+                "¿Cuál es la misión espacial que llevó al primer hombre a la luna?"
+            ],
+            [
+                "Géminis"
+            ],
+            [
+                "Mercurio"
+            ],
+            [
+                "Apolo 11"
+            ],
+            [
+                "Skylab"
+            ],
+            [
+                "Apolo 11"
+            ]
+        ],
+        [
+            [
+                "¿Cuál es la distancia promedio entre la Tierra y la Luna?"
+            ],
+            [
+                "150,000 km"
+            ],
+            [
+                "300,000 km"
+            ],
+            [
+                "384,400 km"
+            ],
+            [
+                "500,000 km"
+            ],
+            [
+                "384,400 km"
+            ]
+        ],
+        [
+            [
+                "¿Qué película presenta una misión de rescate de un astronauta varado en Marte?"
+            ],
+            [
+                "Interestelar"
+            ],
+            [
+                "Gravedad"
+            ],
+            [
+                "Misión Rescate"
+            ],
+            [
+                "Apolo 13"
+            ],
+            [
+                "Misión Rescate"
+            ]
+        ],
+        [
+            [
+                "¿Cuál es el nombre del primer satélite artificial en orbitar la Tierra?"
+            ],
+            [
+                "Voyager"
+            ],
+            [
+                "Pioneer"
+            ],
+            [
+                "Sputnik"
+            ],
+            [
+                "Apolo"
+            ],
+            [
+                "Sputnik"
+            ]
+        ],
+        [
+            [
+                "¿Qué planeta es conocido como la Estrella Vespertina?"
+            ],
+            [
+                "Marte"
+            ],
+            [
+                "Venus"
+            ],
+            [
+                "Júpiter"
+            ],
+            [
+                "Saturno"
+            ],
+            [
+                "Venus"
+            ]
+        ],
+        [
+            [
+                "¿Qué tipo de estrella es el Sol?"
+            ],
+            [
+                "Gigante roja"
+            ],
+            [
+                "Enana blanca"
+            ],
+            [
+                "Enana amarilla"
+            ],
+            [
+                "Supergigante azul"
+            ],
+            [
+                "Enana amarilla"
+            ]
+        ],
+        [
+            [
+                "¿Cuál es la estrella más cercana a la Tierra después del Sol?"
+            ],
+            [
+                "Alpha Centauri"
+            ],
+            [
+                "Sirio"
+            ],
+            [
+                "Proxima Centauri"
+            ],
+            [
+                "Betelgeuse"
+            ],
+            [
+                "Proxima Centauri"
+            ]
+        ],
+        [
+            [
+                "¿Cuál es el planeta más alejado del Sol?"
+            ],
+            [
+                "Urano"
+            ],
+            [
+                "Neptuno"
+            ],
+            [
+                "Plutón"
+            ],
+            [
+                "Marte"
+            ],
+            [
+                "Neptuno"
+            ]
+        ],
+        [
+            [
+                "¿Qué película está basada en un libro de Andy Weir?"
+            ],
+            [
+                "Gravedad"
+            ],
+            [
+                "Interestelar"
+            ],
+            [
+                "Misión Rescate"
+            ],
+            [
+                "2001: Odisea del Espacio"
+            ],
+            [
+                "Misión Rescate"
+            ]
+        ],
+        [
+            [
+                "¿Cómo se llama el primer hombre en orbitar la Tierra?"
+            ],
+            [
+                "Neil Armstrong"
+            ],
+            [
+                "Buzz Aldrin"
+            ],
+            [
+                "Yuri Gagarin"
+            ],
+            [
+                "John Glenn"
+            ],
+            [
+                "Yuri Gagarin"
+            ]
+        ],
+        [
+            [
+                "¿Cuál es la distancia aproximada de la Tierra al Sol?"
+            ],
+            [
+                "150,000,000 km"
+            ],
+            [
+                "300,000,000 km"
+            ],
+            [
+                "100,000,000 km"
+            ],
+            [
+                "50,000,000 km"
+            ],
+            [
+                "150,000,000 km"
+            ]
+        ],
+        [
+            [
+                "¿En qué película un grupo de mineros es enviado al espacio para destruir un asteroide?"
+            ],
+            [
+                "Gravedad"
+            ],
+            [
+                "Interestelar"
+            ],
+            [
+                "Armageddon"
+            ],
+            [
+                "Apolo 13"
+            ],
+            [
+                "Armageddon"
+            ]
+        ],
+        [
+            [
+                "¿Qué planeta es conocido como el Gigante de Gas?"
+            ],
+            [
+                "Marte"
+            ],
+            [
+                "Júpiter"
+            ],
+            [
+                "Venus"
+            ],
+            [
+                "Mercurio"
+            ],
+            [
+                "Júpiter"
+            ]
+        ],
+        [
+            [
+                "¿Cuál es el nombre del rover que aterrizó en Marte en 2012?"
+            ],
+            [
+                "Spirit"
+            ],
+            [
+                "Opportunity"
+            ],
+            [
+                "Curiosity"
+            ],
+            [
+                "Perseverance"
+            ],
+            [
+                "Curiosity"
+            ]
+        ],
+        [
+            [
+                "¿Cuál es el satélite natural más grande del Sistema Solar?"
+            ],
+            [
+                "Europa"
+            ],
+            [
+                "Tritón"
+            ],
+            [
+                "Ganímedes"
+            ],
+            [
+                "Titán"
+            ],
+            [
+                "Ganímedes"
+            ]
+        ],
+        [
+            [
+                "¿En qué película un astronauta se queda varado en Marte?"
+            ],
+            [
+                "Gravedad"
+            ],
+            [
+                "Misión Rescate"
+            ],
+            [
+                "Interestelar"
+            ],
+            [
+                "Apolo 13"
+            ],
+            [
+                "Misión Rescate"
+            ]
+        ]
+    ]
+}
